@@ -23,3 +23,6 @@ cd software-architecture-2018-2
 mvn package
 java -jar target/app2-1.0-SNAPSHOT.jar
 ```
+
+### Envolvidos
+Trabalho realizado por Guilherme Campanez e Anilton Veiga
