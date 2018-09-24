@@ -25,4 +25,4 @@ java -jar target/app2-1.0-SNAPSHOT.jar
 ```
 
 ### Envolvidos
-Trabalho realizado por Guilherme Campanez e Anilton Veiga
+Trabalho realizado por Guilherme Campanez, Anilton Veiga e Gardheam Santos
